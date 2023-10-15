@@ -1,0 +1,5 @@
+C:\Users\acer\source\repos\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\acer\source\repos\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\acer\source\repos\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
